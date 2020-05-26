@@ -2,9 +2,9 @@
  * @Descripttion: 
  * @Author: sunft
  * @Date: 2020-05-26 17:39:48
- * @LastEditTime: 2020-05-26 17:50:25
+ * @LastEditTime: 2020-05-26 17:52:52
 --> 
-<h1 align="center">sprite-smith-loader</h1>
+<h1 align="center">remove-file-webpack-plugin</h1>
 
 
 ![image](https://img.shields.io/badge/license-MIT-green) 

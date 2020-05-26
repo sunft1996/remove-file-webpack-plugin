@@ -1,6 +1,6 @@
 {
   "name": "remove-file-webpack-plugin",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "sunft",
   "description": "A plugin for webpack removes files and folders before compiler",
   "repository": "https://github.com/sunft1996/remove-file-webpack-plugin",

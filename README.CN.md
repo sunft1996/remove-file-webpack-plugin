@@ -2,9 +2,9 @@
  * @Descripttion: 
  * @Author: sunft
  * @Date: 2020-05-26 17:39:58
- * @LastEditTime: 2020-05-26 17:50:08
+ * @LastEditTime: 2020-05-26 17:52:37
 --> 
-<h1 align="center">sprite-smith-loader</h1>
+<h1 align="center">remove-file-webpack-plugin</h1>
 
 
 ![image](https://img.shields.io/badge/license-MIT-green)
@@ -14,7 +14,7 @@ webpack插件，用于删除项目下指定的文件和目录。
 
 
 ## 安装
-下载sprite-smith-loader
+下载remove-file-webpack-plugin
 
 ```
 npm install --save-dev remove-file-webpack-plugin
