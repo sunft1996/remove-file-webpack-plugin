@@ -2,10 +2,10 @@
  * @Descripttion: 
  * @Author: sunft
  * @Date: 2020-05-26 11:15:47
- * @LastEditTime: 2020-05-26 15:38:47
+ * @LastEditTime: 2020-05-26 17:46:13
  */ 
 const path = require("path");
-const RemoveFileWebpackPlugin = require("../dist/index");
+const RemoveFileWebpackPlugin = require("../src/index");
 module.exports = {
     entry: {
         index: './index.js',
