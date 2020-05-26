@@ -1,3 +1,9 @@
+<!--
+ * @Descripttion: 
+ * @Author: sunft
+ * @Date: 2020-05-26 17:39:48
+ * @LastEditTime: 2020-05-26 17:50:25
+--> 
 <h1 align="center">sprite-smith-loader</h1>
 
 
@@ -41,7 +47,7 @@ dirNames | {Array} | [ ] | Directory name to delete
 fileNames | {Array} | [ ] | File name to delete
 ignore | {Array} | [ ] | Absolute path to directory to ignore
 
-P.S：==node_ Modules== will be ignored by default and do not need to be added to ==ignore==
+P.S：**node_ Modules** will be ignored by default and do not need to be added to **ignore**
 
 ## Other
 If you have any questions, please create an issue on [GitHub](https://github.com/sunft1996/remove-file-webpack-plugin/).

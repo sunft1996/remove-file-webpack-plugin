@@ -1,3 +1,9 @@
+<!--
+ * @Descripttion: 
+ * @Author: sunft
+ * @Date: 2020-05-26 17:39:58
+ * @LastEditTime: 2020-05-26 17:50:08
+--> 
 <h1 align="center">sprite-smith-loader</h1>
 
 
@@ -38,7 +44,7 @@ dirNames | Array | [ ] | 删除的目录名
 fileNames | Array | [ ] | 删除的文件名
 ignore | Array | [ ] | 忽略目录的绝对路径
 
-注：==node_modules== 默认会被忽略，不需添加到 ==ignore==
+注：**node_modules** 默认会被忽略，不需添加到 **ignore**
 
 
 ## Other
